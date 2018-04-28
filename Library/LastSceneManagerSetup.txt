@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Sceans/Stage/Normal/30.unity
+  isLoaded: 1
+  isActive: 1

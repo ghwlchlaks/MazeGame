@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f7376dd2f02004d4bb6bfd715403086e
+timeCreated: 1487643111
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - StageContainer: {instanceID: 0}
+  - stageprefab: {fileID: 1130414533772974, guid: 2a23e0d6986345a47830ecaad6567303,
+      type: 2}
+  - StagePanel: {instanceID: 0}
+  - anim1: {fileID: 7400000, guid: 57a925255780a924685f38f090e2c1a8, type: 2}
+  - anim2: {fileID: 7400000, guid: 47e14e077ff594349bc778eed2c669e1, type: 2}
+  - anim3: {fileID: 7400000, guid: 890185e927b2f854e8d91151695523ee, type: 2}
+  - anim4: {fileID: 7400000, guid: c0809a5faf5411446b99b1996ed16c75, type: 2}
+  - anim5: {fileID: 7400000, guid: 1bed5796db687ca489da2bef9ba6a88c, type: 2}
+  - anim6: {fileID: 7400000, guid: 110e7d102ca22b346bb85eaa929d4a58, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
